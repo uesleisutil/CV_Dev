@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1611070220 "/media/ueslei/Ueslei_HD/CV/CV_Dev/main.tex" "main.pdf" "main" 1611070221
+["pdflatex"] 1611177670 "/media/ueslei/Ueslei_HD/CV/CV_Dev/main.tex" "main.pdf" "main" 1611177671
   "/etc/texmf/web2c/texmf.cnf" 1610474376 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/ueslei/Ueslei_HD/CV/CV_Dev/main.tex" 1611070219 10476 7dcb0ddbf1761b11112258f298a52f48 ""
+  "/media/ueslei/Ueslei_HD/CV/CV_Dev/main.tex" 1611177670 10458 f6257fad31ce11409b16d76f1d660cee ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -190,12 +190,12 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1610479487 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1610479519 8256993 66ed6d1dc9970c12ba9a1e0eb2793acc ""
   "developercv.cls" 1610986769 7494 ac365909562bd05ce217f13359185398 ""
-  "main.aux" 1611070221 813 ff12cb5d3ad4cb29439b79dc166f779e "pdflatex"
-  "main.out" 1611070221 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1611070219 10476 7dcb0ddbf1761b11112258f298a52f48 ""
+  "main.aux" 1611177671 813 ff12cb5d3ad4cb29439b79dc166f779e "pdflatex"
+  "main.out" 1611177670 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1611177670 10458 f6257fad31ce11409b16d76f1d660cee ""
   "qrcode.png" 1610986373 47264 1d949dee6230c89b1efbcc15926b21e2 ""
   (generated)
-  "main.pdf"
   "main.out"
   "main.log"
   "main.aux"
+  "main.pdf"
