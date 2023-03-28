@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 22:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -750,65 +750,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
  []
 
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 92.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 92.
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 92.
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 94.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 92.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 92.
+(Font)              scaled to size 9.0pt on input line 94.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 94.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
 \T1/cmtt/m/n/9 Python \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Jupyter \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Amazon Athena \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Amazon SageMaker \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Scikit-Learn \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Salesforce
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 112.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 161.
+LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 161.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 179.
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
-[][][]\T1/Raleway-TLF/m/n/9 Oceanic eddy-induced mod-
- []
-
-
-Underfull \hbox (badness 6978) in paragraph at lines 155--156
-\T1/Raleway-TLF/m/n/9 i-fi-ca-tions to air-sea heat and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-
-Underfull \hbox (badness 8000) in paragraph at lines 183--184
+Underfull \hbox (badness 8000) in paragraph at lines 190--191
 []\T1/Raleway-TLF/m/n/9 Suporte à even-tos re-al-iza-dos
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 184--185
+Underfull \hbox (badness 1436) in paragraph at lines 191--192
 []\T1/Raleway-TLF/m/n/9 Prospecção de po-ten-ci-ais par-
  []
 
@@ -819,18 +818,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23912 strings out of 476025
- 469169 string characters out of 5790017
- 1892388 words of memory out of 5000000
- 43929 multiletter control sequences out of 15000+600000
- 639743 words of font info for 63 fonts, out of 8000000 for 9000
+ 23924 strings out of 476025
+ 469418 string characters out of 5790017
+ 1894388 words of memory out of 5000000
+ 43939 multiletter control sequences out of 15000+600000
+ 654051 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,7n,118p,511b,706s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (1 page, 126780 bytes).
+Output written on main.pdf (1 page, 127082 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
