@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1708469445 "/Users/uesleisutil/Documents/GitHub/CV_Dev/main.tex" "main.pdf" "main" 1708469445 0
-  "/Users/uesleisutil/Documents/GitHub/CV_Dev/main.tex" 1708469444 10361 568d9e746912ed7935e2cea80aca5cad ""
+["pdflatex"] 1713141629 "/Users/uesleisutil/Documents/GitHub/CV_Dev/main.tex" "main.pdf" "main" 1713141630 0
+  "/Users/uesleisutil/Documents/GitHub/CV_Dev/main.tex" 1713141628 10531 3d215c4502689b9f4848c9bc6a83dc30 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -189,9 +189,9 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1706665003 7883460 8b034f4280b91326dd6c05783f2cc820 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "developercv.cls" 1706662129 7492 fa9c9f9b7b40294a25e08eef53381aaf ""
-  "main.aux" 1708469445 705 3afc26069b76e6241ef699035bb48970 "pdflatex"
-  "main.out" 1708469445 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1708469444 10361 568d9e746912ed7935e2cea80aca5cad ""
+  "main.aux" 1713141630 705 3afc26069b76e6241ef699035bb48970 "pdflatex"
+  "main.out" 1713141629 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1713141628 10531 3d215c4502689b9f4848c9bc6a83dc30 ""
   "qrcode.png" 1708468292 7205 226449d728000397dbac66550d5997d3 ""
   (generated)
   "main.aux"
